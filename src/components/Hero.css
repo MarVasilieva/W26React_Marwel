@@ -1,0 +1,18 @@
+.hero {
+    width: 370px;
+            height: 540px;
+            border: 1px solid rgb(216, 214, 210);
+            padding: 11px;
+            border-radius: 10px;
+            text-align: center;
+            background-color: rgb(225, 233, 238);
+            margin: 6px;
+            opacity: 85%;
+            font-family: 'Caveat', cursive;
+            font-size:larger;
+}
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
